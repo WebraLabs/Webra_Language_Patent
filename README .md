@@ -82,7 +82,8 @@ We’re preparing an example compiler and runtime. Check back soon for `examples
 Webra Language and WebraVM are protected intellectual property of **Ikram Rahhali** under **Webra Labs**.
 
 > See full protection terms and legal specification:  
-> [`Webra_Language_Patent_Specification.md`](./Webra_Language_Patent_Specification.md)
+> [Webra_Language_Patent_Specification_v1.0.md](./Webra_Language_Patent_Specification_v1.0.md)
+
 
 ---
 
